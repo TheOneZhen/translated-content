@@ -1601,10 +1601,6 @@
     "modified": "2019-03-23T22:41:09.659Z",
     "contributors": ["xdelatour"]
   },
-  "Glossary/Reference": {
-    "modified": "2019-03-23T22:40:24.148Z",
-    "contributors": ["loella16", "xdelatour"]
-  },
   "Glossary/Reflow": {
     "modified": "2019-03-18T21:46:42.626Z",
     "contributors": ["loella16"]
@@ -27859,5 +27855,9 @@
       "si0ls",
       "dattaz"
     ]
+  },
+  "conflicting/Glossary/Object_reference": {
+    "modified": "2019-03-23T22:40:24.148Z",
+    "contributors": ["loella16", "xdelatour"]
   }
 }

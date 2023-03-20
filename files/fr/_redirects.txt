@@ -1575,7 +1575,7 @@
 /fr/docs/Glossaire/Robots.txt	/fr/docs/Glossary/Robots.txt
 /fr/docs/Glossaire/Ruby	/fr/docs/Glossary/Ruby
 /fr/docs/Glossaire/Récursion	/fr/docs/Glossary/Recursion
-/fr/docs/Glossaire/Référence	/fr/docs/Glossary/Reference
+/fr/docs/Glossaire/Référence	/fr/docs/conflicting/Glossary/Object_reference
 /fr/docs/Glossaire/Référence_d_objet	/fr/docs/Glossary/Object_reference
 /fr/docs/Glossaire/SCM	/fr/docs/Glossary/SCM
 /fr/docs/Glossaire/SCTP	/fr/docs/Glossary/SCTP
@@ -1736,6 +1736,7 @@
 /fr/docs/Glossary/Modern_web_apps	/fr/docs/Glossary/Progressive_web_apps
 /fr/docs/Glossary/Node/réseau	/fr/docs/Glossary/Node/networking
 /fr/docs/Glossary/Origine	/fr/docs/Glossary/Origin
+/fr/docs/Glossary/Reference	/fr/docs/conflicting/Glossary/Object_reference
 /fr/docs/Glossary/Symbol	/fr/docs/Web/JavaScript/Reference/Global_Objects/Symbol
 /fr/docs/Glossary/Transmission_Control_Protocol_(TCP)	/fr/docs/Glossary/TCP
 /fr/docs/Glossary/XHR_(XMLHttpRequest)	/fr/docs/Glossary/XMLHttpRequest
